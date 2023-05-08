@@ -365,27 +365,6 @@ background: linear-gradient(90deg, #116bbb,#6C9BCF);
     box-shadow: 0px 8px 30px #DACDD5;
     border-radius: 15px 15px 15px 15px;
 }
-.wd1{
-    margin: 42px 12px;
-    font-weight: lighter;
-    font-family: calibri;
-    font-size: 20px;
-
-}
-.wd2{
-    margin: 42px 12px;
-    font-weight: lighter;
-    font-family: calibri;
-    font-size: 20px;
-
-}
-.wd3{
-    margin: 42px 12px;
-    font-weight: lighter;
-    font-family: calibri;
-    font-size: 20px;
-
-}
 .words1{
     margin: -434px 0px 0px -8px;
 width: 86%;
@@ -441,23 +420,11 @@ font-size: 65%;
 font-weight: normal;
 font-family: calibri;
 }
-.f1{
-    font-size: 20px;
-                        margin: 42px 0px;
-                        font-weight: lighter;
-                        font-family: calibri;
-}
 .hd2{
     margin: 43px 13px -34px 0px;
 font-size: 65%;
 font-weight: normal;
 font-family: calibri;
-}
-.f2{
-    font-size: 20px;
-                        margin: 42px 0px;
-                        font-weight: lighter;
-                        font-family: calibri;
 }
 .hd3{
     margin: 43px 13px -34px 0px;
@@ -465,24 +432,11 @@ font-size: 65%;
 font-weight: normal;
 font-family: calibri;
 }
-.f3{
-    font-size: 20px;
-                        margin: 42px 0px;
-                        font-weight: lighter;
-                        font-family: calibri;
-}
-
 .hd4{
     margin: 43px 13px -34px 0px;
 font-size: 65%;
 font-weight: normal;
 font-family: calibri;
-}
-.f4{
-    font-size: 20px;
-                        margin: 42px 0px;
-                        font-weight: lighter;
-                        font-family: calibri;
 }
 .container4{
     width: 98%;
